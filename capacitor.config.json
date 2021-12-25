@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "react-scripts-5-sourcemmaps",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

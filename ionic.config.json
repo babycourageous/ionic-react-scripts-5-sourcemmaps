@@ -1,0 +1,7 @@
+{
+  "name": "react-scripts-5-sourcemmaps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
